@@ -1,4 +1,4 @@
-baseURL = 'https://atsemi.org/'
+baseURL = 'https://atsemi.pages.dev/'
 languageCode = 'id'
 title = 'ATSEMI'
 theme = 'PaperMod'
