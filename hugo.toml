@@ -1,0 +1,18 @@
+baseURL = 'https://atsemi.org/'
+languageCode = 'id'
+title = 'ATSEMI'
+theme = 'PaperMod'
+
+[params]
+  description = 'Deskripsi singkat situs saya'
+  defaultTheme = 'auto'
+
+[menu]
+  [[menu.main]]
+    name = 'Beranda'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Tulisan'
+    url = '/posts/'
+    weight = 2
